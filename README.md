@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br><br>🔭 I’m currently working on: Frontend Web Development Projects<br>👯 I’m looking to collaborate on: Web Development & AI Projects<br>🤝 I’m looking for help with: Improving my React & AI Agent skills<br>🌱 I’m currently learning: React, AI Agents & Modern Web Development<br>💬 Ask me about: HTML, CSS, JavaScript, React & AI Tools<br>⚡ Fun fact: I love creating websites, editing videos and exploring new AI tools 🚀
+About Me:<br><br>🔭 I’m currently working on: Frontend Web Development Projects<br>👯 I’m looking to collaborate on: Web Development & AI Projects<br>🤝 I’m looking for help with: Improving my React & AI Agent skills<br>🌱 I’m currently learning: React, AI Agents & Modern Web Development<br>💬 Ask me about: HTML, CSS, JavaScript, React & AI Tools<br>⚡ F
 
 
 ## 🌐 Socials:
