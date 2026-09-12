@@ -27,11 +27,9 @@
 
 # 📊 GitHub Stats
 
-![Nikul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikulmalankiya-hub&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikulmalankiya-hub&theme=onedark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulmalankiya-hub&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
